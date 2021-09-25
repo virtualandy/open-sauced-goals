@@ -1,20 +1,20 @@
 [
   {
     "full_name": "ThreeDotsLabs/wild-workouts-go-ddd-example",
-    "stargazers_count": 1652,
+    "stargazers_count": 1665,
     "open_issues_count": 15,
-    "forks_count": 157
+    "forks_count": 160
   },
   {
     "full_name": "trekhleb/machine-learning-experiments",
-    "stargazers_count": 1064,
+    "stargazers_count": 1068,
     "open_issues_count": 20,
-    "forks_count": 186
+    "forks_count": 187
   },
   {
     "full_name": "opensource9ja/danfojs",
-    "stargazers_count": 1623,
-    "open_issues_count": 27,
+    "stargazers_count": 1626,
+    "open_issues_count": 28,
     "forks_count": 87
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "ahmetb/cloud-run-faq",
-    "stargazers_count": 1836,
+    "stargazers_count": 1842,
     "open_issues_count": 11,
     "forks_count": 101
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "ksindi/managers-playbook",
-    "stargazers_count": 4412,
+    "stargazers_count": 4415,
     "open_issues_count": 0,
     "forks_count": 349
   },
@@ -61,43 +61,43 @@
   },
   {
     "full_name": "go-goyave/goyave",
-    "stargazers_count": 890,
+    "stargazers_count": 895,
     "open_issues_count": 5,
     "forks_count": 41
   },
   {
     "full_name": "CartoDB/carto-spatial-extension",
-    "stargazers_count": 104,
-    "open_issues_count": 6,
+    "stargazers_count": 105,
+    "open_issues_count": 3,
     "forks_count": 29
   },
   {
     "full_name": "qmuntal/stateless",
-    "stargazers_count": 302,
+    "stargazers_count": 304,
     "open_issues_count": 5,
     "forks_count": 16
   },
   {
     "full_name": "quii/learn-go-with-tests",
-    "stargazers_count": 15378,
-    "open_issues_count": 30,
-    "forks_count": 1965
+    "stargazers_count": 15410,
+    "open_issues_count": 29,
+    "forks_count": 1968
   },
   {
     "full_name": "databricks/koalas",
-    "stargazers_count": 2936,
-    "open_issues_count": 92,
+    "stargazers_count": 2940,
+    "open_issues_count": 93,
     "forks_count": 322
   },
   {
     "full_name": "berndruecker/flowing-retail",
-    "stargazers_count": 1084,
-    "open_issues_count": 22,
-    "forks_count": 393
+    "stargazers_count": 1086,
+    "open_issues_count": 24,
+    "forks_count": 394
   },
   {
     "full_name": "LekoArts/gatsby-starter-portfolio-emma",
-    "stargazers_count": 253,
+    "stargazers_count": 254,
     "open_issues_count": 0,
     "forks_count": 63
   },
@@ -105,7 +105,7 @@
     "full_name": "amazon-archives/aws-appsync-chat",
     "stargazers_count": 535,
     "open_issues_count": 17,
-    "forks_count": 308
+    "forks_count": 309
   },
   {
     "full_name": "dabit3/gatsby-auth-starter-aws-amplify",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "LappleApple/awesome-leading-and-managing",
-    "stargazers_count": 4833,
+    "stargazers_count": 4839,
     "open_issues_count": 4,
-    "forks_count": 438
+    "forks_count": 440
   },
   {
     "full_name": "gopherdata/gophernotes",
-    "stargazers_count": 3022,
+    "stargazers_count": 3026,
     "open_issues_count": 43,
-    "forks_count": 218
+    "forks_count": 219
   },
   {
     "full_name": "statecharts/statecharts.github.io",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "ngryman/reading-time",
-    "stargazers_count": 848,
+    "stargazers_count": 850,
     "open_issues_count": 3,
     "forks_count": 39
   },
@@ -159,7 +159,7 @@
     "full_name": "notrab/create-react-app-redux",
     "stargazers_count": 897,
     "open_issues_count": 12,
-    "forks_count": 309
+    "forks_count": 311
   },
   {
     "full_name": "Detachment/Build-vue-hackernews-2.0-from-scratch",
